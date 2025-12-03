@@ -1,2 +1,0 @@
-# JavaEE
-struts-prj1
